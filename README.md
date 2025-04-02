@@ -34,13 +34,7 @@
   <a href="https://linkedin.com/in/anjali-singh-95179720b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/anjali_singh_official" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/c/AnjaliSinghDevOps" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="mailto:anjali.devops@example.com" target="blank">
+  <a href="mailto:anjalisingh4347@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -72,7 +66,7 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=anjsingh16&show_icons=true&hide=prs&theme=radical" />
   </a>
   <a href="https://github.com/anjsingh16">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjsingh16&layout=compact&theme=radical" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjsingh16&layout=compact&theme=radical&langs_count=4" />
   </a>
 </div>
 
