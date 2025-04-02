@@ -45,10 +45,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </p>
 
+### 🧑‍💻 **Language Proficiency**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjsingh16&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![HTML](https://img.shields.io/badge/HTML-Advanced-green)
+![.NET](https://img.shields.io/badge/.NET-Beginner-yellow)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjsingh16&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning.
 
