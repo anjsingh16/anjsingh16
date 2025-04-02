@@ -34,9 +34,8 @@
   <a href="https://linkedin.com/in/anjali-singh-95179720b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:anjalisingh4347@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
-  </a>
+    <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
@@ -64,23 +63,17 @@
 <div align="center">
   <a href="https://github.com/anjsingh16">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=anjsingh16&show_icons=true&hide=prs&theme=radical" />
-  </a>
+</a>
   <a href="https://github.com/anjsingh16">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjsingh16&layout=compact&theme=radical&langs_count=4" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjsingh16&layout=compact&theme=radical&langs_count=4&custom_title=Top%20Languages" />
   </a>
 </div>
 
 ---
 
-### 🔥 **GitHub Contribution Streak:**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anjsingh16&theme=radical)](https://git.io/streak-stats)
-
----
-
 ### 🎯 **My Goals:**
 - 🌟 Contribute to more **DevOps-related** open-source projects.  
-- 🚀 Learn new tools and technologies to enhance automation and efficiency.  
-- 🎓 Share my knowledge with the DevOps community via blogs and tutorials.
+- 🚀 Learn new tools and technologies to enhance automation and efficiency.
 
 ---
 
@@ -91,8 +84,6 @@
 - **Infrastructure as Code (IaC)**  
 - **Cloud Platforms**: AWS, Azure  
 - **Monitoring & Logging**: Grafana, Prometheus
-
----
 
 ### 💡 **Fun Fact:**
 I enjoy solving complex problems and making systems more reliable, scalable, and automated. **Automation is the future, and I’m all in!**
